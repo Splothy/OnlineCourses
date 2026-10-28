@@ -1,0 +1,14 @@
+C:\Users\hp\RiderProjects\OnlineCourses\src\Domain\bin\Debug\net10.0\Domain.deps.json
+C:\Users\hp\RiderProjects\OnlineCourses\src\Domain\bin\Debug\net10.0\Domain.dll
+C:\Users\hp\RiderProjects\OnlineCourses\src\Domain\bin\Debug\net10.0\Domain.pdb
+C:\Users\hp\RiderProjects\OnlineCourses\src\Domain\obj\Debug\net10.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\RiderProjects\OnlineCourses\src\Domain\obj\Debug\net10.0\Domain.AssemblyInfoInputs.cache
+C:\Users\hp\RiderProjects\OnlineCourses\src\Domain\obj\Debug\net10.0\Domain.AssemblyInfo.cs
+C:\Users\hp\RiderProjects\OnlineCourses\src\Domain\obj\Debug\net10.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\hp\RiderProjects\OnlineCourses\src\Domain\obj\Debug\net10.0\Domain.dll
+C:\Users\hp\RiderProjects\OnlineCourses\src\Domain\obj\Debug\net10.0\refint\Domain.dll
+C:\Users\hp\RiderProjects\OnlineCourses\src\Domain\obj\Debug\net10.0\Domain.pdb
+C:\Users\hp\RiderProjects\OnlineCourses\src\Domain\obj\Debug\net10.0\ref\Domain.dll
+C:\Users\hp\Documents\Codex\2026-10-28\21-10-2026-18-42-illia\work\build\Debug\net10.0\Domain.deps.json
+C:\Users\hp\Documents\Codex\2026-10-28\21-10-2026-18-42-illia\work\build\Debug\net10.0\Domain.dll
+C:\Users\hp\Documents\Codex\2026-10-28\21-10-2026-18-42-illia\work\build\Debug\net10.0\Domain.pdb
